@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Search MAC Address - Results</title>
+</head>
+<body>
+    <h1>Search MAC Address - Results</h1>
+    {% if results %}
+        <table>
+            <tr>
+                <th>File Path</th>
+                <th>Row Index</th>
+            </tr>
+            {% for result in results %}
+                <tr>
+                    <td>{{ result.file_path }}</td>
+                    <td>{{ result.row_index }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No results found.</p>
+    {% endif %}
+</body>
+</html>
