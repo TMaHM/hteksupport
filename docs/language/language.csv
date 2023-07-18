@@ -1,20 +1,20 @@
-source,target,location,context
-_123,123,xml,123
-a_record,A Record,js,32
-account,Account,js,213
-Account,Account,js,3213
-Account,Account,xml,123
-account_1,Account Test1,js,12
-account_10,Account 10,js,3
-account_11,Account 11,js,3
-account_12,Account 12,js,12
-account_13,Account 13,js,43254342
-account_14,Account 14,js,5
-account_15,Account 15,js,gdfg
-account_16,Account 16,js,gdfsfd
-account_2,Account 2,js,v234trewf
-account_3,Account 3,js,34ef
-account_4,Account 4,js,42
-account_5,Account 5,js,
-account_6,Account 6,js,f324
-account_7,Account 7,js,ff
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+xml,_123,123,1,,123,1,1
+js,a_record,A Record,2,,32,2,2
+js,account,Account,3,,213,3,4
+js,Account,Account,4,,3213,4,5
+xml,Account,Account,5,,123,56,6
+js,account_1,Account Test1,6,,12,,
+js,account_10,Account 10,7,,3,,
+js,account_11,Account 11,8,,3,,
+js,account_12,Account 12,9,,12,,
+js,account_13,Account 13,10,,43254342,,
+js,account_14,Account 14,11,,5,,
+js,account_15,Account 15,12,,gdfg,,
+js,account_16,Account 16,13,,gdfsfd,,
+js,account_2,Account 2,14,,v234trewf,,
+js,account_3,Account 3,15,,34ef,,
+js,account_4,Account 4,16,,42,,
+js,account_5,Account 5,17,,,,
+js,account_6,Account 6,18,,f324,,
+js,account_7,Account 7,19,,ff,,
