@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-    <str key="top_level_title_status" msgctxt="here and there">"Status"</str>
+    <str key="the_answer" msgctxt="here and there">"Status"</str>
     <const name="the_answer" hint="this isn't translated">42</const>
     <str key="top_level_title_features">"Features"</str>
     <str key="top_level_title_basic_settings">"Basic"</str>
