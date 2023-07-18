@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<root>
     <string name="top_level_title_status">"Status"</string>
     <string name="top_level_title_features">"Features"</string>
     <string name="top_level_title_basic_settings">"Basic"</string>
@@ -372,4 +372,4 @@
     <string name="acd_signin">SignIn</string>
     <string name="acd_signout">SignOut</string>
     <string name="acd_wrapup">Wrap Up</string>
-</resources>
+</root>
